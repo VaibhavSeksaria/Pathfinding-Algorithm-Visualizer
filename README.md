@@ -4,7 +4,7 @@ Pathfinding Visualizer is a web-based tool for visualizing various pathfinding a
 
 ## Features
 
-- Visualize popular pathfinding algorithms like Dijkstra and A*.
+- Visualize popular pathfinding algorithms like Dijkstra and bfs.
 - Interactive grid where users can create walls and move start/end points.
 - Create any type of maze you want by clicking and dragging your mouse over the nodes.
 - Real-time visualization of algorithm execution.
@@ -62,5 +62,4 @@ Pathfinding Visualizer is a web-based tool for visualizing various pathfinding a
 
 - [React](https://reactjs.org/)
 - [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-- [A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
 - [Breadth-First Search (BFS)](https://en.wikipedia.org/wiki/Breadth-first_search)
