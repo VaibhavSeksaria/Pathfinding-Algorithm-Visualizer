@@ -25,7 +25,7 @@ Pathfinding Visualizer is a web-based tool for visualizing various pathfinding a
 
 ### Visualizing Algorithms
 
-1. **Select Algorithm**: Use the dropdown menu to select the pathfinding algorithm (Dijkstra, A* or BFS).
+1. **Select Algorithm**: Use the dropdown menu to select the pathfinding algorithm (Dijkstra or BFS).
 2. **Run Algorithm**: Click the "Visualize Algorithm" button to start the visualization.
 
 
