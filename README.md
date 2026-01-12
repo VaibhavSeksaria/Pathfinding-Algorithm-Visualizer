@@ -40,8 +40,8 @@ Pathfinding Visualizer is a web-based tool for visualizing various pathfinding a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pathfinding-visualizer.git
-    cd pathfinding-visualizer
+    git clone https://github.com/yourusername/Pathfinding-Algorithm-Visualizer.git
+    cd Pathfinding-Algorithm-Visualizer
     ```
 
 2. Install the required dependencies:
